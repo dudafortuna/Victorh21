@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **@NeuraBox**
 
-- 🌱 I’m currently learning **IA**
+- 🌱 I’m currently learning **IA, IOT**
 
 - 💬 Ask me about **WEB, mobile**
 
