@@ -7,15 +7,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorh21&label=Profile%20views&color=0e75b6&style=flat" alt="victorh21" /> </p>
 
 
-- 🔭 I’m currently working on **Buckoid Android App**
+- 🔭 I’m currently working on **@NeuraBox**
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **WE**
 
 - 📫 How to reach me **victorhugodesouza.dev@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am imaginative**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
