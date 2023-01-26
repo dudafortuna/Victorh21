@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
+<h1 align="center">Hi 👋, I'm Victor Hugo</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Android , MEARN**
 
-- 📫 How to reach me **rishavchanda0@gmail.com**
+- 📫 How to reach me **victorhugodesouza.dev@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
@@ -32,4 +32,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victorh21&show_icons=true&locale=en&theme=tokyonight" alt="victorh21" /></p>
 
-![Snake animation](https://github.com/Victorh21/Victorh21/blob/output/github-contribution-grid-snake.svg)
