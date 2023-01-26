@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Victor Hugo</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Just a dreamy developer</h3>
 <img align="right" alt="Coding" width="400" src="https://avatars.githubusercontent.com/u/88410254?v=4">
 
 
